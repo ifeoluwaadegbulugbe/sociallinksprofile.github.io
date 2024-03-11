@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://www.frontendmentor.io/solutions/social-links-profile-OYDjOqnvud)
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://ifeoluwaadegbulugbe.github.io/sociallinksprofile.github.io/)
 
 ### Built with
 
