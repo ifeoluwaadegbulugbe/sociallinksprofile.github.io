@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-(Screenshots.png)
+[Screenshots](Screenshots.png)
 
 
 
